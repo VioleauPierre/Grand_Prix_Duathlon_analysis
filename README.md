@@ -23,8 +23,13 @@ Pour l’analyse des données, le choix a été fait de représenter les deltas 
 ![image](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/c2512db2-7477-4cee-9785-cc23419da3f6)
 
 
-Il y a aussi une figure pour représenter le delta de temps du 3ème athlète de chaque équipe par rapport au meilleur temps sous le même format. Grâce au score précédemment calculé, il est possible d’étudier la corrélation entre les différentes parties de la course entre elle et avec le score total. Cette corrélation est représentée via une matrice de corrélation (ex :cf figure ci dessous), les valeurs sont obtenues par calcul du coefficient de corrélation de Pearson. ![image](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/77db31f0-c195-4a4f-b002-60089f5af29d)
-Enfin, la dernière visualisation proposée est la dynamique de course (ex : cf figure ci dessous). Cette figure représente l’évolution des écarts entre tous les membres du top 30 final et le meilleur temps à plusieurs stades de la course : fin de cap 1, fin du vélo et à l’arrivé. Cela permet d’étudier comment chaque athlète du top 30 a évolué sur une course donnée. Il y a une figure par course. Ce rapport contiendra uniquement quelques exemples de dynamique de course, l’intégralité des graphiques est disponible dans le notebook Data_Visualization.ipynb. ![image](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/c13e0876-90ba-44d0-a9f7-5dfac4f1a2d6)
+Il y a aussi une figure pour représenter le delta de temps du 3ème athlète de chaque équipe par rapport au meilleur temps sous le même format. Grâce au score précédemment calculé, il est possible d’étudier la corrélation entre les différentes parties de la course entre elle et avec le score total. Cette corrélation est représentée via une matrice de corrélation (ex :cf figure ci dessous), les valeurs sont obtenues par calcul du coefficient de corrélation de Pearson.
+
+![image](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/77db31f0-c195-4a4f-b002-60089f5af29d)
+
+Enfin, la dernière visualisation proposée est la dynamique de course (ex : cf figure ci dessous). Cette figure représente l’évolution des écarts entre tous les membres du top 30 final et le meilleur temps à plusieurs stades de la course : fin de cap 1, fin du vélo et à l’arrivé. Cela permet d’étudier comment chaque athlète du top 30 a évolué sur une course donnée. Il y a une figure par course. Ce rapport contiendra uniquement quelques exemples de dynamique de course, l’intégralité des graphiques est disponible dans le notebook Data_Visualization.ipynb. 
+
+![image](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/c13e0876-90ba-44d0-a9f7-5dfac4f1a2d6)
 
 
 
