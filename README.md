@@ -19,7 +19,10 @@ Score = Meilleur temps portion de course / Temps de l’athlète sur la portion 
 L’étape suivante consiste à regrouper les différentes étapes d’une année au sein d’un même dataframe avant ensuite de regrouper toutes les années ensemble et de retirer les colonnes sans informations importantes ou alors celle n’étant disponible que pour certaine année. Les deux dataframes (« scratch » et « class_etape ») sont ensuite
 sauvegardés au format csv pour pouvoir être utiliser ultérieurement lors de l’analyse et la visualisation des données.
 
-Pour l’analyse des données, le choix a été fait de représenter les deltas de temps à l’aide de diagramme en boîte pour faciliter l’observation et une l’interprétation des données. Il y a donc une figure par partie de course et sur chaque figure un diagramme par année (ex :cf figure ci dessous).
+## Visualisation
+
+### Python
+Une première partie de la visualisation à été réalisé avec Python à l'aide des librairies Matplotlib et Seaborn. Le choix a été fait de représenter les deltas de temps à l’aide de diagramme en boîte pour faciliter l’observation et une l’interprétation des données. Il y a donc une figure par partie de course et sur chaque figure un diagramme par année (ex :cf figure ci dessous).
 ![image](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/c2512db2-7477-4cee-9785-cc23419da3f6)
 
 
@@ -31,5 +34,7 @@ Enfin, la dernière visualisation proposée est la dynamique de course (ex : cf 
 
 ![image](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/c13e0876-90ba-44d0-a9f7-5dfac4f1a2d6)
 
+### Power BI
 
+Pour rendre la visualisation des résultats plus interactive et accessible, un tableau de bord à été developpé sous Power BI. Les données ont été récupéré et préparé pour les différents visuels à l'aide de Power Query. Les visuels sont regroupés par page, une première page "Catégorie" permet d'avoir un résumé des caractéristiques concernant une catégorie (D1F,D1H,D2F,D2H). La seconde page permet d'obtenir les caractéristiques pour un club donné et enfin la dernière page à l'heure actuelle permet d'analyser les caractéristiques et performances d'un athlète et notamment de suivre son évolution au fil des années.
 
