@@ -36,5 +36,13 @@ Enfin, la dernière visualisation proposée est la dynamique de course (ex : cf 
 
 ### Power BI
 
-Pour rendre la visualisation des résultats plus interactive et accessible, un tableau de bord à été developpé sous Power BI. Les données ont été récupéré et préparé pour les différents visuels à l'aide de Power Query. Les visuels sont regroupés par page, une première page "Catégorie" permet d'avoir un résumé des caractéristiques concernant une catégorie (D1F,D1H,D2F,D2H). La seconde page permet d'obtenir les caractéristiques pour un club donné et enfin la dernière page à l'heure actuelle permet d'analyser les caractéristiques et performances d'un athlète et notamment de suivre son évolution au fil des années.
+Pour rendre la visualisation des résultats plus interactive et accessible, un tableau de bord à été developpé sous Power BI. Les données ont été récupéré et préparé pour les différents visuels à l'aide de Power Query. Les visuels sont regroupés par page, une première page "Catégorie" permet d'avoir un résumé des caractéristiques concernant une catégorie (D1F,D1H,D2F,D2H). 
+![Category_page](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/f4368576-7852-4b24-a1ff-7389ee4d1a62)
+
+La seconde page permet d'obtenir les caractéristiques pour un club donné.
+![Team_page](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/b649f87e-2074-4fdf-bd2f-acd6ce9c4178)
+
+Et enfin la dernière page permet d'analyser les caractéristiques et performances d'un athlète et notamment de suivre son évolution au fil des années.
+![Athlete_page](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/2ea4c1be-f78f-4432-862a-1d7886f6aad4)
+
 
