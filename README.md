@@ -36,7 +36,7 @@ Enfin, la dernière visualisation proposée est la dynamique de course (ex : cf 
 
 ### Power BI
 
-Pour rendre la visualisation des résultats plus interactive et accessible, un tableau de bord à été developpé sous Power BI. Les données ont été récupéré et préparé pour les différents visuels à l'aide de Power Query. Les visuels sont regroupés par page, une première page "Catégorie" permet d'avoir un résumé des caractéristiques concernant une catégorie (D1F,D1H,D2F,D2H). 
+Pour rendre la visualisation des résultats plus interactive et accessible, un tableau de bord a été developpé sous Power BI. Les données ont été récupéré et préparé pour les différents visuels à l'aide de Power Query. Les visuels sont regroupés par page, une première page "Catégorie" permet d'avoir un résumé des caractéristiques concernant une catégorie (D1F,D1H,D2F,D2H). 
 ![Category_page](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis/assets/129098391/f4368576-7852-4b24-a1ff-7389ee4d1a62)
 
 La seconde page permet d'obtenir les caractéristiques pour un club donné.
